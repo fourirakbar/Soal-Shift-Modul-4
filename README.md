@@ -17,7 +17,7 @@
 4. <b>Maksimal menghubungi asisten untuk demo hari Rabu 25-04-2018</b>
 5. Demo dan revisi dimulai dari hari Kamis 26-04-2018 sd hari Sabtu 28-04-2018 pukul 22.00
 6. Praktikan akan mendapatkan pengurangan nilai ketka:
-Melanggar salah satu dari tulisan diatas.
-Hasil perhitungan untuk VLSM / CIDR, berbeda dengan di CPT /UML
-Pembagian IP kurang efisien
-Routing kurang efisien
+    - Melanggar salah satu dari tulisan diatas.
+    - Hasil perhitungan untuk VLSM / CIDR, berbeda dengan di CPT /UML
+    - Pembagian IP kurang efisien
+    - Routing kurang efisien
