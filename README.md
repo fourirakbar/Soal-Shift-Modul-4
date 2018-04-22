@@ -1,4 +1,4 @@
-![1](/img/soal.png)
+![1](/img/soal1.png)
 
 ###Catatan
 1. Deadline hari Rabu 25-04-2018 pukul 22.00
